@@ -1,0 +1,38 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(37, 46, 77);
+}
+
+.titulo{
+    text-align: center;
+}
+.tit_qu_mm{
+    color: aliceblue;
+    text-align: center;
+}
+.fbo-embed{
+    text-align: center  ;
+}
+.texto_uno{
+    text-align: center;
+    text-align: justify;
+    text-align: left;
+    color: aliceblue;
+
+}
+.revista{
+    text-align: center;
+}
+.titulo_revi{
+    color: aliceblue;
+}
+
+.revista_texto{
+    text-align: justify;
+    text-align: center;
+    color: aliceblue;
+}
+.foter{
+    text-align: right;
+    color: aliceblue;
+}
